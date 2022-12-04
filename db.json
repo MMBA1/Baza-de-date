@@ -25,19 +25,19 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "teddy bear",
+            "description": "Brown teddy bear for kids",
+            "price": 20,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/MMBA1/Baza-de-date/main/img/teddy bear.jpg"
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
-            "description": "Brand new and high quality.",
-            "price": 180,
+            "name": "amazing board game - UNO",
+            "description": "amazing board card game - UNO",
+            "price": 10,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/MMBA1/Baza-de-date/main/img/uno.jpg"
         },
         {
             "id": 3,
