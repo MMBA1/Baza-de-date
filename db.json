@@ -29,7 +29,7 @@
             "description": "Brown teddy bear for kids",
             "price": 20,
             "author_id": 1,
-            "photo_url": "https://github.com/MMBA1/marketplace/main/img/teddy bear.jpeg"
+            "photo_url": "https://github.com/MMBA1/marketplace/main/img/teddy bear.jpg"
         },
         {
             "id": 2,
@@ -37,7 +37,7 @@
             "description": "amazing board card game - UNO",
             "price": 10,
             "author_id": 3,
-            "photo_url": "https://github.com/MMBA1/marketplace/main/img/uno.jpeg"
+            "photo_url": "https://github.com/MMBA1/marketplace/main/img/uno.jpg"
         },
         {
             "id": 3,
